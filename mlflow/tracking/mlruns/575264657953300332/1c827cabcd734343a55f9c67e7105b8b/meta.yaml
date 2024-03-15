@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/luisr/Documents/udemy_deploy/dvc/deeplearning_deploy/mlflow/tracking/mlruns/575264657953300332/1c827cabcd734343a55f9c67e7105b8b/artifacts
+end_time: 1710349189770
+entry_point_name: ''
+experiment_id: '575264657953300332'
+lifecycle_stage: active
+run_id: 1c827cabcd734343a55f9c67e7105b8b
+run_name: bustling-fawn-612
+run_uuid: 1c827cabcd734343a55f9c67e7105b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710349183786
+status: 3
+tags: []
+user_id: luisr

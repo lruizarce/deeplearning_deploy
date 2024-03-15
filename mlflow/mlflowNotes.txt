@@ -1,0 +1,18 @@
+What is MLflow Tracking used for?
+- Tracking parameters used to run an experiment
+- Compare parameters used between different experiments
+- experiments allow us to compare parameters
+- Tracking experiment results
+
+
+What  MLflow 'run' stores?
+- Each experiment is called "runs"
+- Each run records the version of the code
+- Records 
+    - Code version
+    - Start & end time
+    - Source: Name of the file to launch the run, or the project name and entry point for
+    the run
+    - Parameters: Key-value input parameters of your choice
+    - Metrics: Key-value metrics, where the value is numeric
+    - Artifacts: Output files in any format
